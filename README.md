@@ -1,4 +1,4 @@
-#Github issues dashboard
+# Github issues dashboard
 
 # react-graphql-github-apollo
 
